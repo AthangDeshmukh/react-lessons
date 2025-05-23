@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Test() {
+export default function () {
   return (
     <div>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima aperiam
