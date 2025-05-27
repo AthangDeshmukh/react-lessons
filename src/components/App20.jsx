@@ -27,7 +27,6 @@ export default function App19() {
     }
   };
 
-
   return (
     <div style={{ textAlign: "center", padding: "20px", fontFamily: "Arial" }}>
       <h1>App19</h1>
@@ -57,7 +56,5 @@ export default function App19() {
       <p>If wicket is greater or equal to 10, then show Game Over!</p>
       <p>Run should not be incremented once Game is over!</p>
     </div>
-    
   );
 }
-
